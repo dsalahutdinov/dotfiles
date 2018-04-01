@@ -1,0 +1,16 @@
+[user]
+	name = Salahutdinov Dmitry
+	email = dsalahutdinov@gmail.com
+[apply]
+	whitespace = nowarn
+[core]
+	whitespace = -indent-with-non-tab,trailing-space,cr-at-eol
+	quotepath = false
+[merge]
+	summary = true
+	conflictstyle = diff3
+[push]
+	default = matching
+[diff]
+	indentHeuristic = true
+	compactionHeuristic = true
