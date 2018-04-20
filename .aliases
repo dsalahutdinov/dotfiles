@@ -1,0 +1,1 @@
+alias grep='grep --color=auto --exclude="*.log" --exclude-dir="coverage"'
